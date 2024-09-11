@@ -1,7 +1,13 @@
 
 # 🚌 FiveM Bus Stops and TAP Card System
 
-### 📝 Description
+[🔍 Preview](https://discord.gg/aPdEVCKQbu)
+
+### 📜 Check Out My Other Scripts!
+- 💬 [Join My Discord](https://discord.gg/tJtKPSz9p3)
+- 🛒 [Visit My Tebex Store](https://mikey.tebex.io/)
+
+## 📝 Description
 A third-eye feature to travel to other bus stops with an integrated TAP card system for convenient public transport.
 
 ## ✨ Features
